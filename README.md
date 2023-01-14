@@ -31,13 +31,13 @@
 ###
 ###     * SSL/TLS encryption of data received and send by the Web Browser.
 ###     * Default Web Browser set to DuckDuckGo - search the web without being tracked
-### -----------------------------------------------------------------------------------------------------------------
+### ------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/53326887/212497159-670c5120-b311-4ab5-bf6a-e5efe13e5e24.png)
 ![image](https://user-images.githubusercontent.com/53326887/212497255-b4ab871f-2216-437e-8990-04f2842e4c73.png)
 ![image](https://user-images.githubusercontent.com/53326887/212497293-482ed954-936a-4eb4-a137-2b0c180982c9.png)
 
-### -----------------------------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------------
 ### 2 Ways to Browse the Web Anonamously (IP Hidden):
 ### -----------------------------------------------------------
 ### * Use the Croxy Proxy Free Web Proxy
