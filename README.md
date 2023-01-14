@@ -21,13 +21,7 @@
 ###     * Basic in-built Add blocker using the Ad domains listed in the ad_servers.txt    
 ###     * Basic in-built cookie blocker
 ###
-###     * SSL/TLS certificate validation: An SSL/TLS certificate is a digital object that allows systems to verify the 
-###     identity & subsequently establish an encrypted network connection to another system using the Secure Sockets 
-###     Layer/Transport Layer Security (SSL/TLS) protocol. Certificates are used within a cryptographic system known 
-###     as a public key infrastructure (PKI). PKI provides a way for one party to establish the identity of another party 
-###     using certificates if they both trust a third-party - known as a certificate authority. SSL/TLS certificates thus 
-###     act as digital identity cards to secure network communications, establish the identity of websites over the Internet 
-###     as well as resources on private networks.
+###     * SSL/TLS certificate validation: An SSL/TLS certificate is a digital object that allows systems to verify the identity & subsequently establish an encrypted network connection to another system using the Secure Sockets Layer/Transport Layer Security (SSL/TLS) protocol. Certificates are used within a cryptographic system known as a public key infrastructure (PKI). PKI provides a way for one party to establish the identity of another party using certificates if they both trust a third-party - known as a certificate authority. SSL/TLS certificates thus act as digital identity cards to secure network communications, establish the identity of websites over the Internet as well as resources on private networks.
 ###
 ###     * SSL/TLS encryption of data received and send by the Web Browser.
 ###     * Default Web Browser set to DuckDuckGo - search the web without being tracked
