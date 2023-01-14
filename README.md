@@ -26,7 +26,7 @@
 ###
 ###     * SSL/TLS encryption of data received and send by the Web Browser.
 ###     * Default Web Browser set to DuckDuckGo - search the web without being tracked.
-###     * Browser History is stored on local disk and clears after every session.
+###     * Browser History is never stored on local disk and clears after every session.
 ###     * Passwords and other user information are never remembered and saved on local disk.
 ### ------------------------------------------------------------------------------------------
 
