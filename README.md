@@ -1,7 +1,7 @@
 # Safe-Navigator-Web-Browser
 ## Safe and Simple Web Browser for everyday use
 ### The Web Browser has been built with PyQt Version 5.15
-### Ensure to install all the PyQt packages before running the Web Browser.
+### Ensure to install all the PyQt packages in the import of the main.py code before running the Web Browser.
 ###
 ### Basic Features of the Web Browser includes:
 ### ---------------------------------------------
