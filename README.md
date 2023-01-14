@@ -37,7 +37,7 @@
 ### * Use the Croxy Proxy Free Web Proxy
 ![image](https://user-images.githubusercontent.com/53326887/212497931-f61e7e97-216c-4581-a07a-7980068fef15.png)
 
-### * Use your custom web proxy by setting the IP Address and Port Numberm the following part of the main.py code:
+### * Use your custom web proxy by setting the IP Address and Port Number in the following part of the main.py code:
 ![image](https://user-images.githubusercontent.com/53326887/212497663-f980bb96-543b-459c-90eb-b5d4fe36c310.png)
 
 
