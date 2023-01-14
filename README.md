@@ -1,5 +1,6 @@
 # Safe-Navigator-Web-Browser
 ## Safe and Simple Web Browser for everyday use
+## main.py is the python file containing the web browser code
 ### The Web Browser has been built with PyQt Version 5.15
 ### Ensure to install all the PyQt packages in the import of the main.py code before running the Web Browser.
 ###
