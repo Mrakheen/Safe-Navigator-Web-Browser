@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+QPushButton{
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    padding: 12px;
+    font-size: 20px;
+    color: #000000;
+}
+
+QPushButton:hover {
+    background:rgb(21, 30, 73);
+}
+
+QLineEdit {
+    background: rgba(43, 59, 121, 0.693);
+    padding:10px;
+    border-radius:3px;
+
+    font-size:16px;
+    color:rgb(255, 255, 255);
+
+}
+
+QTabBar::tab{
+    background:  rgba(5, 12, 49, 0.746);
+    padding: 12px;
+    border: none;
+    border-bottom: none;
+    font-size: 14px;
+    color: rgb(253, 252, 252);
+}
+
+QTabBar::tab:first-child {
+    border-right: 1.5px solid rgba(251, 251, 252, 0.707);
+}
+
+QTabBar::tab QPushButton {
+    border:initial;
+    background:initial;
+    padding:initial;
+
+}
+
+QTabBar::tab:selected{
+    background: rgb(5, 12, 49);
+    color: #f5f2f2;
+    
+}
+
+QWidget#Toolbar{
+    background: rgb(5, 12, 49);
+    border: none;
+    border-bottom:none;
+}
+
+#TabBar::close-button {
+
+    border-image: url('icons/close-tab.png') 0 0 0 0 stretch stretch;
+    padding: 40px;
+
+}
+
+QSplitter::handle{ 
+    border-bottom: none;
+    border-top: none;
+}
+
