@@ -1,3 +1,4 @@
+# ![logo](https://user-images.githubusercontent.com/53326887/212498319-41bd5b40-8e0e-4349-8813-ba55e35b0d03.png)
 # Safe-Navigator-Web-Browser
 ## Safe and Simple Web Browser for everyday use
 ## main.py is the python file containing the web browser code
