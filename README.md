@@ -38,7 +38,7 @@
 
 ### -----------------------------------------------------------------------------------------------------------------
 ### 3 Ways to Browse the Web Anonamously (IP Hidden):
-### -------------------------------------------------
+### -----------------------------------------------------------
 ### * Use the Croxy Proxy Free Web Proxy
 ### * Use your custom web proxy by setting the IP Address and Port Number in this part of the following part of the main.py code:
 ![image](https://user-images.githubusercontent.com/53326887/212497663-f980bb96-543b-459c-90eb-b5d4fe36c310.png)
